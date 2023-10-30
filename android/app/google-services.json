@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371815697931",
+    "project_id": "keuangan-e5487",
+    "storage_bucket": "keuangan-e5487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371815697931:android:640afa98fe2e44de73c10e",
+        "android_client_info": {
+          "package_name": "com.example.testing_bolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5p40RVndXMDBDosrgjffA8VXeAcpJVrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
