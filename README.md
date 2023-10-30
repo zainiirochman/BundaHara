@@ -1,6 +1,16 @@
-# testing_bolo
+# BundaHara
 
-A new Flutter project.
+Aplikasi mobile catatan anggaran keuangan "BundaHara" adalah sebuah solusi
+perangkat lunak yang dirancang untuk membantu individu dan keluarga merencanakan,
+melacak, dan mengelola keuangan dengan lebih efektif dan bijaksana. Aplikasi ini memberikan
+pengguna alat yang mudah digunakan untuk mengelola pendapatan dan pengeluaran mereka,
+mengatur tujuan finansial, dan mencapai stabilitas keuangan dalam jangka yang diinginkan.
+
+Oleh Kelompok 3 PTI A 22 :
+Mutyara Safitri             (22050974011)
+Faniah Iftitakhul Kamilah   (22050974020)
+Muhammad Zaini Rochman      (22050974036)
+Syaiqoh Dienillah           (22050974041)
 
 ## Getting Started
 
