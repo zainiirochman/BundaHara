@@ -8,7 +8,8 @@ melacak, dan mengelola keuangan dengan lebih efektif dan bijaksana. Aplikasi ini
 pengguna alat yang mudah digunakan untuk mengelola pendapatan dan pengeluaran mereka,
 mengatur tujuan finansial, dan mencapai stabilitas keuangan dalam jangka yang diinginkan.
 
-Oleh Kelompok 3 PTI A 22 :
+Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Pemrograman Mobile oleh Kelompok 3 [Program Studi S1 Pendidikan Teknologi Informasi 2022](https://www.unesa.ac.id/page/akademik/fakultas-teknik/s1-pendidikan-teknologi-informasi) [Universitas Negeri Surabaya](https://www.unesa.ac.id/) yang beranggotakan :
+
 - Mutyara Safitri             (22050974011)
 - Faniah Iftitakhul Kamilah   (22050974020)
 - Muhammad Zaini Rochman      (22050974036)
