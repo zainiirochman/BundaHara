@@ -7,10 +7,10 @@ pengguna alat yang mudah digunakan untuk mengelola pendapatan dan pengeluaran me
 mengatur tujuan finansial, dan mencapai stabilitas keuangan dalam jangka yang diinginkan.
 
 Oleh Kelompok 3 PTI A 22 :
-Mutyara Safitri             (22050974011)
-Faniah Iftitakhul Kamilah   (22050974020)
-Muhammad Zaini Rochman      (22050974036)
-Syaiqoh Dienillah           (22050974041)
+- Mutyara Safitri             (22050974011)
+- Faniah Iftitakhul Kamilah   (22050974020)
+- Muhammad Zaini Rochman      (22050974036)
+- Syaiqoh Dienillah           (22050974041)
 
 ## Getting Started
 
