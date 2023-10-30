@@ -1,5 +1,7 @@
 # BundaHara
 
+![POSTER BUNDAHARA](https://github.com/zainiirochman/BundaHara/assets/133016739/b43a6d01-11c7-4dab-a35d-ba32641c976a)
+
 Aplikasi mobile catatan anggaran keuangan "BundaHara" adalah sebuah solusi
 perangkat lunak yang dirancang untuk membantu individu dan keluarga merencanakan,
 melacak, dan mengelola keuangan dengan lebih efektif dan bijaksana. Aplikasi ini memberikan
